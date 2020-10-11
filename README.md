@@ -1,5 +1,5 @@
 ### Hello friends! 👋
-🌸 I’m currently learning JavaScript
+🌸 I build websites done in Wordpress too. See works <a href="http://consios.com/portfolio/">here</a>.
 <!--
 **consbulaquena/consbulaquena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
